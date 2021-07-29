@@ -1,0 +1,5 @@
+npm i express dotenv
+npm i -D nodemon
+
+set up configuration and run npm run dev
+
