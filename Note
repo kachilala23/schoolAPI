@@ -3,3 +3,6 @@ npm i -D nodemon
 
 set up configuration and run npm run dev
 
+node seeder -i // to import the data
+node seeder -d // to delete the data
+
